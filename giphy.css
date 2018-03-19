@@ -1,0 +1,10 @@
+#gifs{
+width: 200px;
+background-image: url(pixel_weave_@2X.png);
+}
+.gif{
+   text-align: center;
+}
+.container{
+    text-align: center;
+}
